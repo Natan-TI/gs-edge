@@ -1,9 +1,18 @@
 <h1 align="center">LeafCheck - GS_EDGE</h1>
 <img src="./GS_EDGE.png" width="900px;" alt="Foto do Projeto Arduino"/><br>
   
-## :memo: Descrição
+## :link: Links
+* Tinkercad: https://www.tinkercad.com/things/dQaCf0nBt1P-gsedge/editel?sharecode=nMVkLh-caj5z318ILQlZay0pIa0TP9JnWb0rT-MRWSw
+  <br>
+* Youtbe: coming soon...
 
-*  O LeafCheck, oferece uma solução inovadora para os agricultores, detecção e prevenção de doenças de plantas por meio de modelos de IA e aprendizado de máquina, com diagnósticos precisos, orientações de tratamento personalizadas e integração de informações climáticas e geográficas, os agricultores podem agir de forma proativa, detectando precocemente doenças e    tomando medidas corretivas adequadas.
+
+## :memo: Descrição do projeto
+
+*  O LeafCheck, oferece uma solução inovadora para os agricultores, detecção e prevenção de doenças de plantas por meio de modelos de IA e aprendizado de máquina, com diagnósticos precisos, orientações de tratamento personalizadas e integração de informações climáticas e geográficas, os agricultores podem agir de forma proativa, detectando precocemente doenças e tomando medidas corretivas adequadas.
+  <br>
+*  Pensando nisso, adequamos nossa ideia para o Arduino. Tentamos reproduzir o que nosso aplicativo fará, no LeafCheck serão utilizadas fotos das plantas para que a Inteligência Artificial analíse e diga ao usuário qual é o estado de saúde de sua planta.
+Para ilustrar essa funcionalidade, utilizamos diversos sensores para detectar umidade, temperatura, PH do solo, presença de ervas daninhas e a luminosidade, abrindo e fechando a estufa para o bem estar das plantas. Todas as leituras dos sensores são informadas no display a cada 2 segundos.
 
 ## :books: Funcionalidades
 
@@ -21,13 +30,13 @@
 
 ## :seedling: Instruções de uso
 
-* 1 Clonar repositório
+* 1. Clonar repositório
   <br>
-* 2 Colocar o código na IDE Arduino
+* 2. Colocar o código na IDE Arduino
   <br>
-* 3 Fazer as devidas conexões dos sensores, fios e resistores no Arduino Uno R3
+* 3. Fazer as devidas conexões dos sensores, fios e resistores no Arduino Uno R3
   <br>
-* 4 Rodar o programa
+* 4. Rodar o programa
 
 ## :clipboard: Requisitos
 
