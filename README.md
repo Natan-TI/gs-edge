@@ -1,5 +1,5 @@
 <h1 align="center">LeafCheck - GS_EDGE</h1>
-<img align="center" src="./GS_EDGE.png" width="600px;" alt="Foto do Projeto Arduino"/><br>
+<img src="./GS_EDGE.png" width="900px;" alt="Foto do Projeto Arduino"/><br>
   
 ## :memo: Descrição
 
