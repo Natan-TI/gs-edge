@@ -4,7 +4,7 @@
 ## :link: Links
 * Tinkercad: https://www.tinkercad.com/things/dQaCf0nBt1P-gsedge/editel?sharecode=nMVkLh-caj5z318ILQlZay0pIa0TP9JnWb0rT-MRWSw
   <br>
-* Youtbe: coming soon...
+* Youtbe: https://youtu.be/rLMBpv8rYBw 
 
 
 ## :memo: Descrição do projeto
