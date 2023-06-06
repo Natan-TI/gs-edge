@@ -30,13 +30,13 @@ Para ilustrar essa funcionalidade, utilizamos diversos sensores para detectar um
 
 ## :seedling: Instruções de uso
 
-1. Clonar repositório
+* Clonar repositório
   <br>
-2. Colocar o código na IDE Arduino
+* Colocar o código na IDE Arduino
   <br>
-3. Fazer as devidas conexões dos sensores, fios e resistores no Arduino Uno R3
+* Fazer as devidas conexões dos sensores, fios e resistores no Arduino Uno R3
   <br>
-4. Rodar o programa
+* Rodar o programa
 
 ## :clipboard: Requisitos
 
