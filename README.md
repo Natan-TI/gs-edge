@@ -21,13 +21,13 @@
 
 ## :seedling: Instruções de uso
 
-1 Clonar repositório
+* 1 Clonar repositório
   <br>
-2 Colocar o código na IDE Arduino
+* 2 Colocar o código na IDE Arduino
   <br>
-3 Fazer as devidas conexões dos sensores, fios e resistores no Arduino Uno R3
+* 3 Fazer as devidas conexões dos sensores, fios e resistores no Arduino Uno R3
   <br>
-4 Rodar o programa
+* 4 Rodar o programa
 
 ## :clipboard: Requisitos
 
@@ -53,7 +53,7 @@
 
 ## :hammer: Dependências
 * Biblioteca Servo para funcionamento do Servo Motor
- <br>
+  <br>
 * Biblioteca LiquidCrystal para funcionamento do Display LCD
 
 
