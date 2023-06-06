@@ -21,14 +21,40 @@
 
 ## :seedling: Instruções de uso
 
-* Clonar repositório
+1 Clonar repositório
   <br>
-* Colocar o código na IDE Arduino
+2 Colocar o código na IDE Arduino
   <br>
-* Fazer as devidas conexões dos sensores, fios e resistores no Arduino Uno R3
+3 Fazer as devidas conexões dos sensores, fios e resistores no Arduino Uno R3
   <br>
-* Rodar o programa
+4 Rodar o programa
 
+## :clipboard: Requisitos
+
+* 1 Arduino Uno R3
+  <br>
+* IDE Arduino
+  <br>
+* 2 Potenciômetros
+  <br>
+* 1 Sensor de temperatura
+  <br>
+* 1 Sensor PIR
+  <br>
+* 1 Fotorresistor
+  <br>
+* 1 Micro servo
+  <br>
+* 1 Display LCD 16x2
+  <br>
+* 2 Resistores de 10KΩ
+  <br>
+* Ligação ao computador
+
+## :hammer: Dependências
+* Biblioteca Servo para funcionamento do Servo Motor
+ <br>
+* Biblioteca LiquidCrystal para funcionamento do Display LCD
 
 
 ## :wrench: Tecnologias utilizadas
