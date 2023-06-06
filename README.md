@@ -1,41 +1,40 @@
 <h1 align="center">LeafCheck - GS_EDGE</h1>
-<img src="./GS_EDGE.png" width="600px;" alt="Foto do Projeto Arduino"/><br>
+<img align="center" src="./GS_EDGE.png" width="600px;" alt="Foto do Projeto Arduino"/><br>
   
 ## :memo: Descrição
 
-*  O LeafCheck, oferece uma solução inovadora para os agricultores, detecção e prevenção de doenças de plantas por meio de modelos de IA e aprendizado de máquina, com diagnósticos         precisos, orientações de tratamento personalizadas e integração de informações climáticas e geográficas, os agricultores podem agir de forma proativa, detectando precocemente doenças e    tomando medidas corretivas adequadas.
+*  O LeafCheck, oferece uma solução inovadora para os agricultores, detecção e prevenção de doenças de plantas por meio de modelos de IA e aprendizado de máquina, com diagnósticos precisos, orientações de tratamento personalizadas e integração de informações climáticas e geográficas, os agricultores podem agir de forma proativa, detectando precocemente doenças e    tomando medidas corretivas adequadas.
 
 ## :books: Funcionalidades
-* 
-  <b>Sensor de umidade</b>: Detecta a umidade do solo
+* <b>Sensor de umidade</b>: Detecta a umidade do solo
   <br>
-  <b>Sensor de temperatura</b>: Detecta temperatura ambiente
+* <b>Sensor de temperatura</b>: Detecta temperatura ambiente
   <br>
-  <b>Sensor de movimento</b>: Detecta se há ervas daninha no solo
+* <b>Sensor de movimento</b>: Detecta se há ervas daninha no solo
   <br>
-  <b>Sensor de PH do solo</b>: Detecta se o nivel de PH do solo está aceitavel
+* <b>Sensor de PH do solo</b>: Detecta se o nivel de PH do solo está aceitavel
   <br>
-  <b>Sensor de luminosidade</b>: Alem de detectar a luminosidade, faz com que o motor abra e feche de acordo com a luminosidade do local, se etiver muito alto ele ativa o motor, se estiver baixa ele é desativado.
+* <b>Sensor de luminosidade</b>: Alem de detectar a luminosidade, faz com que o motor abra e feche de acordo com a luminosidade do local, se etiver muito alto ele ativa o motor, se estiver baixa ele é desativado.
   <br>
-  <b>Display LCD</b>: Informa os resultados dos sensores de forma prética e direta
+* <b>Display LCD</b>: Informa os resultados dos sensores de forma prética e direta
 
 
 ## :wrench: Tecnologias utilizadas
 * Arduino;
   <br>
-  C++;
+* C++;
   <br>
-  Display lcd;
+* Display lcd;
   <br>
-  Potenciometro;
+* Potenciometro;
   <br>
-  Sensor de temperatura;
+* Sensor de temperatura;
   <br>
-  Sensor PIR;
+* Sensor PIR;
   <br>
-  Fotorresistor;
+* Fotorresistor;
   <br>
-  Micro servo
+* Micro servo
 
 
 ## :handshake: Colaboradores
@@ -67,4 +66,4 @@
 </table>
 
 ## :dart: Status do projeto
-Concluido ## :white_check_mark:
+Concluido :white_check_mark:
