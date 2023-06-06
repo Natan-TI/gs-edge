@@ -22,11 +22,11 @@
 ## :seedling: Instruções de uso
 
 * Clonar repositório
-<br>
+  <br>
 * Colocar o código na IDE Arduino
-<br>
+  <br>
 * Fazer as devidas conexões dos sensores, fios e resistores no Arduino Uno R3
-<br>
+  <br>
 * Rodar o programa
 
 
