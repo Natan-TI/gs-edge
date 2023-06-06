@@ -6,6 +6,7 @@
 *  O LeafCheck, oferece uma solução inovadora para os agricultores, detecção e prevenção de doenças de plantas por meio de modelos de IA e aprendizado de máquina, com diagnósticos precisos, orientações de tratamento personalizadas e integração de informações climáticas e geográficas, os agricultores podem agir de forma proativa, detectando precocemente doenças e    tomando medidas corretivas adequadas.
 
 ## :books: Funcionalidades
+
 * <b>Sensor de umidade</b>: Detecta a umidade do solo
   <br>
 * <b>Sensor de temperatura</b>: Detecta temperatura ambiente
@@ -18,8 +19,20 @@
   <br>
 * <b>Display LCD</b>: Informa os resultados dos sensores de forma prética e direta
 
+## :seedling: Instruções de uso
+
+* Clonar repositório
+<br>
+* Colocar o código na IDE Arduino
+<br>
+* Fazer as devidas conexões dos sensores, fios e resistores no Arduino Uno R3
+<br>
+* Rodar o programa
+
+
 
 ## :wrench: Tecnologias utilizadas
+
 * Arduino;
   <br>
 * C++;
@@ -34,7 +47,7 @@
   <br>
 * Fotorresistor;
   <br>
-* Micro servo
+* Micro servo;
 
 
 ## :handshake: Colaboradores
